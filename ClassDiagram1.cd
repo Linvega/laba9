@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="laba9.ClassTest">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gIAAkCAIAgAQAAAAwACAAAAAAAAAAAAAAAAAAAQgBEA=</HashCode>
+      <FileName>ClassTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba9.Form1">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAACAACAAABAAAACAQAhDAMA4AAwCEHB8AQEACAE=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="obj_1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="laba9.Program">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
